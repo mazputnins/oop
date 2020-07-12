@@ -1,0 +1,2 @@
+# oop
+praktiskie darbi OOP
